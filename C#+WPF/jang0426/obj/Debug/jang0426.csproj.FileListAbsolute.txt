@@ -1,0 +1,30 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\WINDOWS\MAIN.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\bin\Debug\jang0426.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\bin\Debug\jang0426.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\bin\Debug\jang0426.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\WINDOWS\MAIN.baml
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426.g.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\jang0426\jang0426\obj\Debug\jang0426.pdb
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\bin\Debug\jang0426.exe.config
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\bin\Debug\jang0426.exe
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\bin\Debug\jang0426.pdb
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426.csprojAssemblyReference.cache
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\WINDOWS\MAIN.g.cs
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\App.g.cs
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426_MarkupCompile.cache
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426_MarkupCompile.lref
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\WINDOWS\MAIN.baml
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426.g.resources
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426.Properties.Resources.resources
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426.csproj.GenerateResource.cache
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426.csproj.CoreCompileInputs.cache
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426.exe
+C:\Users\rlawk\OneDrive\Desktop\C#+WPF\jang0426\obj\Debug\jang0426.pdb
