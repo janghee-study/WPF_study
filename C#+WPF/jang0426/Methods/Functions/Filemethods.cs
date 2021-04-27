@@ -21,7 +21,7 @@
                 Vars._viewmodel.file_PATH = dlgOpenFile.FileName;
                 System.Windows.MessageBox.Show(Vars._viewmodel.file_PATH);
             }
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }

@@ -11,7 +11,8 @@
 
     public class ViewModels : PropertyUpdate
     {
-        private string cnt;
+        //COUNT
+        private string cnt = "0";
         public string CNT
         {
             get
@@ -21,13 +22,13 @@
             set
             {
                 cnt = value;
-                
-                //이름을 불러와야함
-                Notify(CNT);
+
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
             }
         }
         
-        private string good_cnt;
+        private string good_cnt = "0";
         public string good_CNT
         {
             get
@@ -37,11 +38,12 @@
             set
             {
                 good_cnt = value;
-                Notify(good_CNT);
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
             }
         }
 
-        private string poor_cnt;
+        private string poor_cnt = "0";
         public string poor_CNT
         {
             get
@@ -51,12 +53,12 @@
             set
             {
                 poor_cnt = value;
-                Notify(good_CNT);
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
             }
         }
 
-
-        private string lose_rate;
+        private string lose_rate = "0";
         public string lose_RATE
         {
             get
@@ -65,13 +67,31 @@
             }
             set
             {
-                int rate;
-                rate = Int32.Parse(good_cnt) / Int32.Parse(poor_cnt);
-                lose_rate = rate.ToString();
-                Notify(lose_RATE);
+                lose_rate = value;
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
             }
         }
 
+
+        //STABLE
+        private string pass_stable = "S T A B L E";
+        public string pass_STABLE
+        {
+            get
+            {
+                return pass_stable;
+            }
+            set
+            {
+                pass_stable = value;
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
+            }
+        }
+        
+
+        //FILEPATH
         private string file_name;
         public string file_NAME
         {
@@ -82,7 +102,8 @@
             set
             {
                 file_name = value;
-                Notify(file_NAME);
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
             }
         }
 
@@ -96,7 +117,41 @@
             set
             {
                 file_path = value;
-                Notify(file_PATH);
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
+            }
+        }
+
+
+        //VOLT
+        private string volt_level = "0.0";
+        public string volt_LEVEL
+        {
+            get
+            {
+                return volt_level;
+            }
+            set
+            {
+                volt_level = value;
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
+            }
+        }
+
+        //VOLT
+        private string speed_level = "0.0";
+        public string speed_LEVEL
+        {
+            get
+            {
+                return speed_level;
+            }
+            set
+            {
+                speed_level = value;
+                var Method = MethodBase.GetCurrentMethod().Name.Replace("set_", "");
+                Notify(Method);
             }
         }
 
