@@ -1,6 +1,6 @@
 # WPF_study
 # Classifier
-### 실시간 상품 분류 시스템 (Product classification system)
+###상품 분류 시스템 (Product classification system)
 
 <img src="/images/full.gif" width="80%">
 Classifier made by 김장희
