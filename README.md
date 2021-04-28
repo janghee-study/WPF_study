@@ -8,7 +8,7 @@ Classifier made by 김장희
 ### :large_orange_diamond: 작품선정 배경
 ----------------------------------------------------------
 
-:point_right: 실제 공장설비에서 쓰이는 언어에 맞추어 제작 
+:point_right: 실제 자동화설비에서 쓰이는 언어에 맞추어 제작 
 
 ### :large_orange_diamond: 작품 목표
 ----------------------------------------------------------
@@ -47,7 +47,8 @@ Classifier made by 김장희
 
 #### :heavy_check_mark: 추가사항
 ----------------------------------------------------------
-&nbsp;&nbsp;&nbsp; RDBMS
+&nbsp;&nbsp;&nbsp; RDBMS ---> query SELECT 메소드 추가
+&nbsp;&nbsp;&nbsp; 권한할당을 위해 로그인폼 추가
 
 
 #### :heavy_check_mark: 시연영상  Ver.01
