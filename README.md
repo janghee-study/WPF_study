@@ -56,6 +56,6 @@ Classifier made by 김장희
 
 
 #### :heavy_check_mark: 시연영상  Ver.02
-&nbsp;&nbsp;&nbsp; XAML style 추가
 ----------------------------------------------------------
+&nbsp;&nbsp;&nbsp; XAML style 추가
 <img src="/images/full_0428.gif" width="110%">
